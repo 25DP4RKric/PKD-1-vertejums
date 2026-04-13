@@ -1,0 +1,139 @@
+body {
+    background-color: #B68A5D;
+    font-family: "Orbitron", sans-serif;
+    color: #827371;
+}
+
+header {
+    display: flex;
+    background-color: #E6E6E6;
+    font-size: 24px;
+    width: 50%;
+    gap: 55%;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+
+.nav-menu {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    transition: 0.3s;
+    justify-content: end;
+}
+
+.poga {
+    color: #827371;
+    transition: 0.3s;
+}
+
+.poga:hover {
+    color: #B68A5D;
+}
+
+a {
+    color: #827371;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #B68A5D;
+}
+
+.add {
+    background-color: #BDB5AE;
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+    align-items: center; 
+    text-align: center;
+}
+
+.description {
+    max-width: 600px;
+}
+
+.shop-now {
+    background-color: #E6E6E6;
+    border-radius: 8px;
+    padding: 10px 20px;
+    transition: 0.3s;
+    position: absolute;
+    margin-top: 180px;
+}
+
+.shop-now:hover {
+    padding: 15px 25px;
+    transition: 0.3s;
+    margin-top: 172px;
+    border-radius: 10px;
+    font-size: 22px;
+}
+
+.discount-products {
+    background-color: #E6E6E6;
+    width: 40.50%;
+    margin-left: 25%;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 390px;
+    padding: 10px 90px;
+}
+
+.discount-product {
+    width: 100%;
+    margin-top: 80px;
+    background-color: #BDB5AE;
+    height: 250px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.discount-product img {
+    width:75%;
+}
+
+.title {
+    margin-top: 0px;
+    position: absolute;
+    margin-top: -300px;
+}
+
+.problem {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.contact {
+    background-color: #E6E6E6;
+    width: 49.28%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+
+.rights {
+    width: 49.28%;
+    margin-left: 25%;
+    background-color: #BDB5AE;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.author {
+    margin-left: 75%;
+    margin-top: -50px;
+}
