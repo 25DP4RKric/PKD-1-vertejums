@@ -1,12 +1,12 @@
 body {
-    background-color: #B68A5D;
+    background-color: #3A6EA5;
     font-family: "Orbitron", sans-serif;
-    color: #827371;
+    color: #191919;
 }
 
 header {
     display: flex;
-    background-color: #E6E6E6;
+    background-color: #E6E8E6;
     font-size: 24px;
     width: 50%;
     gap: 55%;
@@ -23,25 +23,25 @@ header {
 }
 
 .poga {
-    color: #827371;
+    color: #191919;
     transition: 0.3s;
 }
 
 .poga:hover {
-    color: #B68A5D;
+    color: #BB7E8C;
 }
 
 a {
-    color: #827371;
+    color: #191919;
     transition: 0.3s;
 }
 
 a:hover {
-    color: #B68A5D;
+    color: #BB7E8C;
 }
 
 .add {
-    background-color: #BDB5AE;
+    background-color: #BB7E8C;
     display: flex;
     flex-direction: column;
     height: 250px;
@@ -57,7 +57,7 @@ a:hover {
 }
 
 .shop-now {
-    background-color: #E6E6E6;
+    background-color: #E6E8E6;
     border-radius: 8px;
     padding: 10px 20px;
     transition: 0.3s;
@@ -74,7 +74,7 @@ a:hover {
 }
 
 .discount-products {
-    background-color: #E6E6E6;
+    background-color: #E6E8E6;
     width: 40.50%;
     margin-left: 25%;
     display: flex;
@@ -88,7 +88,7 @@ a:hover {
 .discount-product {
     width: 100%;
     margin-top: 80px;
-    background-color: #BDB5AE;
+    background-color: #BB7E8C;
     height: 250px;
     border-radius: 10px;
     align-items: center;
@@ -118,7 +118,7 @@ a:hover {
 }
 
 .contact {
-    background-color: #E6E6E6;
+    background-color: #E6E8E6;
     width: 49%;
     padding: 10px;
     margin-top: 10px;
@@ -128,7 +128,7 @@ a:hover {
 .rights {
     width: 49%;
     margin-left: 25%;
-    background-color: #BDB5AE;
+    background-color: #BB7E8C;
     padding: 10px;
     margin-top: 10px;
 }

@@ -1,12 +1,12 @@
 body {
-    background-color: #B68A5D;
+    background-color: #3A6EA5;
     font-family: "Orbitron", sans-serif;
-    color: #827371;
+    color: #191919;
 }
 
 header {
     display: flex;
-    background-color: #E6E6E6;
+    background-color: #E6E8E6;
     font-size: 24px;
     width: 50%;
     gap: 55%;
@@ -22,25 +22,25 @@ header {
 }
 
 .poga {
-    color: #827371;
+    color: #191919;
     transition: 0.3s;
 }
 
 .poga:hover {
-    color: #B68A5D;
+    color: #BB7E8C;
 }
 
 a {
-    color: #827371;
+    color: #191919;
     transition: 0.3s;
 }
 
 a:hover {
-    color: #B68A5D;
+    color: #BB7E8C;
 }
 
 .products {
-    background-color: #E6E6E6;
+    background-color: #E6E8E6;
     display: grid;
     width: 49%;
     margin-left: 25%;
@@ -53,7 +53,7 @@ a:hover {
 .product {
     width: 80%;
     margin-top: 80px;
-    background-color: #BDB5AE;
+    background-color: #BB7E8C;
     height: 250px;
     border-radius: 10px;
     align-items: center;
@@ -62,7 +62,7 @@ a:hover {
     flex-direction: column;
     padding: 20px;
     margin-top: 40px;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .product img {
@@ -101,7 +101,7 @@ a:hover {
 .rights {
     width: 49%;
     margin-left: 25%;
-    background-color: #BDB5AE;
+    background-color: #BB7E8C;
     padding: 10px;
     margin-top: 10px;
 }
